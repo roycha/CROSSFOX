@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: aa26d3ad01af87641b1cc62b2180907b
+timeCreated: 1500745895
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mario Tiles_0
+    21300002: Mario Tiles_1
+    21300004: Mario Tiles_2
+    21300006: Mario Tiles_3
+    21300008: Mario Tiles_4
+    21300010: Mario Tiles_5
+    21300012: Mario Tiles_6
+    21300014: Mario Tiles_7
+    21300016: Mario Tiles_8
+    21300018: Mario Tiles_9
+    21300020: Mario Tiles_10
+    21300022: Mario Tiles_11
+    21300024: Mario Tiles_12
+    21300026: Mario Tiles_13
+    21300028: Mario Tiles_14
+    21300030: Mario Tiles_15
+    21300032: Mario Tiles_16
+    21300034: Mario Tiles_17
+    21300036: Mario Tiles_18
+    21300038: Mario Tiles_19
+    21300040: Mario Tiles_20
+    21300042: Mario Tiles_21
+    21300044: Mario Tiles_22
+    21300046: Mario Tiles_23
+    21300048: Mario Tiles_24
+    21300050: Mario Tiles_25
+    21300052: Mario Tiles_26
+    21300054: Mario Tiles_27
+    21300056: Mario Tiles_28
+    21300058: Mario Tiles_29
+    21300060: Mario Tiles_30
+    21300062: Mario Tiles_31
+    21300064: Mario Tiles_32
+    21300066: Mario Tiles_33
+    21300068: Mario Tiles_34
+    21300070: Mario Tiles_35
+    21300072: Mario Tiles_36
+    21300074: Mario Tiles_37
+    21300076: Mario Tiles_38
+    21300078: Mario Tiles_39
+    21300080: Mario Tiles_40
+    21300082: Mario Tiles_41
+    21300084: Mario Tiles_42
+    21300086: Mario Tiles_43
+    21300088: Mario Tiles_44
+    21300090: Mario Tiles_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mario Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 552
+        width: 84
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 512
+        width: 209
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 257
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 457
+        width: 188
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 115
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 422
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 382
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 145
+        height: 81
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 340
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 97
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 139
+        width: 98
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 140
+        width: 143
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 252
+        width: 111
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 146
+        height: 98
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 193
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 138
+        width: 128
+        height: 98
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 141
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92
+        width: 193
+        height: 44
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 68
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 86
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 87
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 86
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 62
+        width: 33
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 64
+        width: 9
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 8
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 38
+        width: 197
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 68
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 40
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 49
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 49
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 55
+        width: 19
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 257
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 30
+        width: 65
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 27
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 27
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 28
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 65
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 49
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 7
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 7
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
